@@ -10,7 +10,8 @@ const reasons = [
         "9. You've become one of my favorite people, (now i know how much quality time acc means to me) ", 
         "10. You've kept me captivated since the day ive met you and theres never a dull moment",
         "11. Your patience, (thank you for always putting up with me) ",
-        "12. Your hardwork , your the definition of doubling your hussle , and u remind to always dounle mine ",
+        "12. Your hardwork , your the definition of doubling your hustle , and you remind me to always double mine ",
+        "13. You always push me to be better, and i am better now because of you so Thank you :)",
         ":( you have reached the end, come back tomorrow for a new reason",
     ];
 
