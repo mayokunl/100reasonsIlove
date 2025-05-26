@@ -15,6 +15,7 @@ const reasons = [
         "14. Body is TEAAAAAAAAAAAA",
         "15. Your ability to take the high road every single time",
         "16. Your my PRE MED PRINCESS, you saved ayo's life, your gonna save so many, your so cute, your gonna be the cutest doctor , like bruh i just love ",
+        "17, I love that when i see you i see great things, like no matter who we are to eachother I know im always going to be able to look back and say, - that babe was amazing",
         ":( you have reached the end, come back tomorrow for a new reason",
     ];
 
