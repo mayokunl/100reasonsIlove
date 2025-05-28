@@ -16,6 +16,9 @@ const reasons = [
         "15. Your ability to take the high road every single time",
         "16. Your my PRE MED PRINCESS, you saved ayo's life, your gonna save so many, your so cute, your gonna be the cutest doctor , like bruh i just love ",
         "17, I love that when i see you i see great things, like no matter who we are to eachother I know im always going to be able to look back and say, - that babe was amazing",
+        "18, Your Smile, (The dopamine hit manz gets everytime I see you smile is undescribable)",
+        "19, Your hugs and kisses (Missing them heavy right now) #needthat - i miis you ",
+        "20, How you look at me, i see in your eyes that you truly love me, i see how much this experience with you is once in a lifetime",
         ":( you have reached the end, come back tomorrow for a new reason",
     ];
 
