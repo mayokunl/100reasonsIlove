@@ -34,7 +34,9 @@ const reasons = [
         "33, You are HOT, like you make my temperature higher when i see you",
         "34, You make me forget my problems, thank you :) ", 
         "35, You are the sweetest girl i know, and people may not see that but i see it, please dont stop being sweet",
+        "36, I love how you kiss and hug me when i need it",
         ":( you have reached the end, come back tomorrow for a new reason",
+
     ];
 
 let currentIndex = -1;
